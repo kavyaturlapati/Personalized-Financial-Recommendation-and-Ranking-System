@@ -1,5 +1,7 @@
 # Personalized Financial Recommendation and Ranking System
 
+![CardRank — recommendations](assets/app_recommendations.jpeg)
+
 A hybrid recommender that ranks credit cards for users based on their spending
 behavior. It combines **collaborative filtering** (latent embeddings learned
 from co-holding patterns), **content-based scoring** (expected reward value from
@@ -33,6 +35,8 @@ annual rewards. It wins because it is the only model that captures all three
 holding signals at once.
 
 ![Model comparison](outputs/model_comparison.png)
+
+![CardRank — model performance](assets/app_performance.jpeg)
 
 ---
 
