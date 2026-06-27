@@ -1,0 +1,41 @@
+card_id,name,boosted_categories,annual_fee,signup_bonus,base_rate,max_rate,popularity_weight
+0,Card 00 · Online Shopping / Entertainment,online_shopping+entertainment,0,0,0.02,0.04,0.578
+1,Card 01 · Online Shopping / Dining,online_shopping+dining,49,222,0.015,0.04,2.059
+2,Card 02 · Gas / Other / Online Shopping,gas+other+online_shopping,120,349,0.015,0.05,2.645
+3,Card 03 · Transit / Groceries,transit+groceries,49,250,0.015,0.05,0.458
+4,Card 04 · Transit,transit,0,0,0.015,0.02,0.832
+5,Card 05 · Other,other,0,111,0.015,0.02,1.186
+6,Card 06 · Online Shopping,online_shopping,0,0,0.015,0.04,2.373
+7,Card 07 · Gas / Drugstores / Utilities,gas+drugstores+utilities,95,327,0.02,0.05,0.418
+8,Card 08 · Dining / Online Shopping,dining+online_shopping,49,201,0.01,0.05,0.727
+9,Card 09 · Online Shopping,online_shopping,0,0,0.015,0.04,1.475
+10,Card 10 · Other / Entertainment,other+entertainment,49,190,0.015,0.05,1.022
+11,Card 11 · Travel,travel,0,46,0.015,0.05,0.829
+12,Card 12 · Drugstores,drugstores,0,0,0.015,0.04,0.935
+13,Card 13 · Drugstores / Gas,drugstores+gas,0,24,0.01,0.03,0.503
+14,Card 14 · Other,other,0,173,0.015,0.05,0.888
+15,Card 15 · Dining,dining,0,4,0.02,0.04,0.875
+16,Card 16 · Drugstores / Travel / Online Shopping,drugstores+travel+online_shopping,120,304,0.01,0.05,0.695
+17,Card 17 · Transit,transit,0,187,0.01,0.02,0.758
+18,Card 18 · Drugstores,drugstores,0,0,0.015,0.04,1.266
+19,Card 19 · Dining / Gas,dining+gas,0,134,0.01,0.04,1.659
+20,Card 20 · Dining / Entertainment,dining+entertainment,0,0,0.015,0.04,1.081
+21,Card 21 · Online Shopping / Groceries,online_shopping+groceries,0,0,0.015,0.04,1.192
+22,Card 22 · Groceries,groceries,49,243,0.01,0.03,0.844
+23,Card 23 · Online Shopping / Other,online_shopping+other,0,71,0.01,0.05,1.0
+24,Card 24 · Drugstores / Entertainment / Groceries,drugstores+entertainment+groceries,49,324,0.015,0.04,0.573
+25,Card 25 · Gas / Utilities,gas+utilities,49,174,0.015,0.05,0.963
+26,Card 26 · Travel / Gas,travel+gas,120,383,0.015,0.05,0.589
+27,Card 27 · Other / Travel,other+travel,0,0,0.02,0.05,2.848
+28,Card 28 · Dining / Groceries / Transit,dining+groceries+transit,120,373,0.01,0.05,1.359
+29,Card 29 · Gas / Other,gas+other,49,145,0.01,0.04,0.997
+30,Card 30 · Groceries,groceries,0,0,0.01,0.02,0.683
+31,Card 31 · Groceries / Dining / Utilities,groceries+dining+utilities,120,350,0.02,0.05,0.355
+32,Card 32 · Dining,dining,0,0,0.01,0.03,1.814
+33,Card 33 · Dining / Transit,dining+transit,49,138,0.015,0.05,0.937
+34,Card 34 · Drugstores,drugstores,0,81,0.015,0.02,1.271
+35,Card 35 · Utilities / Online Shopping,utilities+online_shopping,0,0,0.02,0.04,0.418
+36,Card 36 · Transit / Dining,transit+dining,95,423,0.01,0.04,1.087
+37,Card 37 · Entertainment / Online Shopping / Transit,entertainment+online_shopping+transit,95,271,0.02,0.05,0.858
+38,Card 38 · Dining,dining,0,78,0.015,0.04,0.574
+39,Card 39 · Dining / Utilities,dining+utilities,95,233,0.02,0.03,0.54
